@@ -1,5 +1,7 @@
 <?php
 
+	echo "hello";
+
 	try{
 		$pdo = new PDO("mysql:host=localhost;dbname=projet","root","");
 	}
